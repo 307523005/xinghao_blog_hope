@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 主页
 heroImage: /logo.svg
-heroText: 你博客的名称
+heroText: 兴浩
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 你为什么而活？你的存在意义是什么？除了工作、挣钱，还有什么值得投入人生？
 projects:
   - icon: project
     name: 项目名称
